@@ -1,6 +1,6 @@
 # EyeFriendly Github Dashboard
 
-Love Your Eyes! Eye Friendly Github Dashboard.
+Love Your Eyes! Custom CSS For Github Dashboard.
 
 ## Preview
 ![](./assets/ss.jpg)
