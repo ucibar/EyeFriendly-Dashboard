@@ -12,3 +12,11 @@ Love Your Eyes! Eye Friendly Github Dashboard.
   * Then install this style using:
     * [userstyles.org](http://userstyles.org/styles/131357)
     *  or, add [style.css](https://raw.githubusercontent.com/uCibar/EyeFriendly-Dashboard/master/style.css) manually into the stylish addon editor.
+
+## Contributions
+
+If you would like to contribute to this repository;
+
+1. Fork
+2. Make changes
+3. Create a pull request!
