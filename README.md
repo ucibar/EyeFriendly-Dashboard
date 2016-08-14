@@ -10,7 +10,7 @@ Love Your Eyes! Eye Friendly Github Dashboard.
 * For Stylish Addon:
   * Get the Stylish addon for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/2108/), [Chrome](https://chrome.google.com/extensions/detail/fjnbnpbmkenffdnngjfgmeleoegfcffe), [Opera](https://addons.opera.com/en/extensions/details/stylish/), [Safari](http://sobolev.us/stylish/) and [Firefox Mobile](https://addons.mozilla.org/en-US/firefox/addon/2108/).
   * Then install this style using:
-    * [userstyles.org](http://userstyles.org/styles/131357)
+    *Go [userstyles.org](http://userstyles.org/styles/131357) and click "Install with Stylish" button.
     *  or, add [style.css](https://raw.githubusercontent.com/uCibar/EyeFriendly-Dashboard/master/style.css) manually into the stylish addon editor.
 
 ## Contributions
