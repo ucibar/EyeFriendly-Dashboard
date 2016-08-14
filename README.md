@@ -1,6 +1,8 @@
 # EyeFriendly Github Dashboard
 
 Love Your Eyes! Custom CSS For Github Dashboard.
+* [Installing](https://github.com/uCibar/EyeFriendly-Dashboard#installing) Style.
+* [Contributions](https://github.com/uCibar/EyeFriendly-Dashboard#contributions).
 
 ## Preview
 ![](./assets/preview.gif)
