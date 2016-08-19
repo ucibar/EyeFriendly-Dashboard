@@ -2,7 +2,7 @@
 
 Love Your Eyes! Custom CSS For Github Dashboard.
 * [Install](https://github.com/uCibar/EyeFriendly-Dashboard#installing)
-* [TODO](https://github.com/uCibar/EyeFriendly-Dashboard#TODO)
+* [TODO](https://github.com/uCibar/EyeFriendly-Dashboard#todo)
 * [Contribution](https://github.com/uCibar/EyeFriendly-Dashboard#contributions)
 
 ## Preview
