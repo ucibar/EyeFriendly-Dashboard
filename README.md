@@ -2,6 +2,7 @@
 
 Love Your Eyes! Custom CSS For Github Dashboard.
 * [Install](https://github.com/uCibar/EyeFriendly-Dashboard#installing)
+* [TODO](https://github.com/uCibar/EyeFriendly-Dashboard#TODO)
 * [Contribution](https://github.com/uCibar/EyeFriendly-Dashboard#contributions)
 
 ## Preview
@@ -14,6 +15,11 @@ Love Your Eyes! Custom CSS For Github Dashboard.
   * Then install this style using:
     * Go [userstyles.org](http://userstyles.org/styles/131357) and click "Install with Stylish" button.
     * or, add [dashboard.css](https://raw.githubusercontent.com/uCibar/EyeFriendly-Dashboard/master/css/dashboard.css) manually into the stylish addon editor.
+
+##TODO
+
+- Fix extended alert divs. (pull request div, pushed div, issue div etc.)
+- Colorize all alert icons.
 
 ## Contributions
 
