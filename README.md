@@ -21,7 +21,7 @@ Love Your Eyes! Custom CSS For Github Dashboard.
 - Fix extended alert divs. (pull request div, pushed div, issue div etc.)
 - Colorize all alert icons.
 
-## Contributions
+## Contribute
 
 If you would like to contribute to this repository;
 
